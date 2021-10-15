@@ -1,6 +1,6 @@
 # ironiTespitSistemiFlutterMobileProje
 Yapay zeka modeli python ile yazıldı.
-Flask ile apiye entegre edildi.
+Flask ile api haline getirildi.
 Flutter mobil projesine bağlantısı yapıldı.
 
  - GİRİŞ EKRANI - 
